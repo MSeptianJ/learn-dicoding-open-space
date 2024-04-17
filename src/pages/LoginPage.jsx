@@ -27,6 +27,7 @@ function LoginPage() {
           {' '}
           <br />
           Through Open Space App.
+          vanoueb
         </h2>
 
         <LoginInput login={onLogin} />
